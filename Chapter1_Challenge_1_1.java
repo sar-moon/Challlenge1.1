@@ -1,8 +1,5 @@
-
+import java.util.scanner;
 public class Chapter1_Challenge_1_1 {
-import java.util.Scanner;
-
-   // public class Chapter1_Challenge_1_1 {
 
         public static void main(String[] args) {
             Scanner input = new Scanner(System.in);
