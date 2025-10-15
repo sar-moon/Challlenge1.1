@@ -1,6 +1,5 @@
-public class Chapter1_Challenge_1_1 {
-    package chapter1_challenge_1_1;
 
+public class Chapter1_Challenge_1_1 {
 import java.util.Scanner;
 
    // public class Chapter1_Challenge_1_1 {
